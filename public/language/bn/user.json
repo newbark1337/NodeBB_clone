@@ -84,7 +84,7 @@
     "username-taken-workaround": "আপনি যে ইউজারনেম চাচ্ছিলেন সেটি ইতিমধ্যে নেয়া হয়ে গেছে, কাজেই আমরা এটি কিঞ্চিং পরিবর্তন করেছি। আপনি এখন <strong>%1</strong> হিসেবে পরিচিত",
     "password-same-as-username": "Your password is the same as your username, please select another password.",
     "password-same-as-email": "Your password is the same as your email, please select another password.",
-    "weak-password": "Weak password, try again.",
+    "weak-password": "Weak password, please try again.",
     "upload-picture": "ছবি আপলোড করুন",
     "upload-a-picture": "ছবি (একটি) আপলোড করুন",
     "remove-uploaded-picture": "আপলোড করা ছবিটি সরিয়ে নাও",
